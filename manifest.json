@@ -1,0 +1,25 @@
+{
+  "name": "Asael, the Korean Companion - 阿塞尔",
+  "short_name": "阿塞尔",
+  "description": "An AI-powered sci-fi themed Korean learning RPG. Chat with space navigators, collect vocabulary, and level up your fluency.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/logo.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ],
+  "categories": ["education", "entertainment", "games"],
+  "lang": "zh-CN"
+}
